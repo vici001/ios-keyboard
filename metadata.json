@@ -1,0 +1,6 @@
+{
+  "name": "iOS Keyboard",
+  "description": "کیبورد فوق‌العاده شیک و دقیق iOS با چیدمان اصلی فارسی و انگلیسی، کلید نیم‌فاصله، صدای کلیک و ویبره آیفون و تم‌های دارک و لایت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
